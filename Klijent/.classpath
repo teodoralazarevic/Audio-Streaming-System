@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="build/generated-sources/ap-source-output"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="dist/Klijent.jar"/>
+	<classpathentry kind="lib" path="dist/KlijentClient/Klijent.jar"/>
+	<classpathentry kind="lib" path="dist/KlijentClient/KlijentClient.jar"/>
+	<classpathentry kind="lib" path="dist/KlijentClient.jar"/>
+	<classpathentry kind="output" path="build/jar"/>
+</classpath>
